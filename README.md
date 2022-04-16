@@ -1,2 +1,2 @@
 # tecnomultimedia
-Trabajos_Practicos
+Trabajos Practicos
